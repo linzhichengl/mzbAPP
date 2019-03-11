@@ -1,0 +1,137 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(242, 242, 242, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:594px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3412_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:518px;
+  height:1122px;
+}
+#u3412 {
+  position:absolute;
+  left:36px;
+  top:33px;
+  width:518px;
+  height:1122px;
+}
+#u3413 {
+  position:absolute;
+  left:2px;
+  top:553px;
+  width:514px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3414_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:594px;
+  height:85px;
+}
+#u3414 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:594px;
+  height:85px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+}
+#u3415 {
+  position:absolute;
+  left:2px;
+  top:34px;
+  width:590px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3416_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:512px;
+  height:81px;
+}
+#u3416 {
+  position:absolute;
+  left:41px;
+  top:1104px;
+  width:512px;
+  height:81px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+}
+#u3417 {
+  position:absolute;
+  left:2px;
+  top:32px;
+  width:508px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3418_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:1101px;
+}
+#u3418 {
+  position:absolute;
+  left:553px;
+  top:84px;
+  width:41px;
+  height:1101px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+}
+#u3419 {
+  position:absolute;
+  left:2px;
+  top:542px;
+  width:37px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u3420_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:1101px;
+}
+#u3420 {
+  position:absolute;
+  left:0px;
+  top:84px;
+  width:41px;
+  height:1101px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+}
+#u3421 {
+  position:absolute;
+  left:2px;
+  top:542px;
+  width:37px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
